@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>Soy el Contacto Como No</h1>
+    <h2>El de arriba es un Contacto Feo</h2>
+    <h3>El de arriba se la come junto con el Index</h3>
 </body>
 </html>
 
